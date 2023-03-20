@@ -1,0 +1,97 @@
+.home-title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.title-left{
+    width: 48%;
+    height: 500px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.show {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#paragraph {
+    text-align: justify;
+    font-size: 20px;
+}
+#greet {
+    color: orange;
+    font-size: 40px;
+}
+.title-right {
+    width: 52%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px 0px 0px 0px;
+}
+#maker {
+    width: 65%;
+}
+.heading {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0px;
+    margin-bottom: 60px;
+    background-color: rgb(1, 100, 100);
+    color: white;
+}
+.heading h1 {
+    margin: 0;
+}
+.classes {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.classes h2 {
+    color: black;
+}
+.varin-high {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    text-decoration: none;
+}
+.pnc-wepa {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+#high {
+    width: 60%;
+}
+#universe {
+    width: 50%;
+}
+#universe, #high {
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+#high:hover {
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+#universe:hover {
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
