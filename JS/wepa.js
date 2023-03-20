@@ -70,7 +70,7 @@ let myfriends = [
         name: "VANDA SOPHAL ❤",
         gender: "Male",
         age: 19,
-        from: "Siem Reap",
+        from: "Prey Veng",
         skill: "Financial and Banking",
         color: "Blue and Yellow",
         hobby: "I like cooking, sleeping, eating and listening to music.",
